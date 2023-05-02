@@ -1,0 +1,10 @@
+スキーマ情報のメモ
+
+- Todo
+  - id        String
+  - userId    String
+  - title     String
+  - completed Boolean
+  - createAt  DateTime
+  - updatedAt DateTime
+  - user      User
